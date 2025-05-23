@@ -1,0 +1,27 @@
+h1{
+font-size: 60px;
+text-align: center;
+color: #660066;
+background-color: #FFCCFF
+}
+h2{
+font-size: 30px;
+text-align: left;
+color: #660066
+}
+p{
+font-size: 20px;
+text-align: left;
+font-family: arial;
+}
+
+body {
+background-color: #FFCCFF;
+}
+
+a {
+color: rgb(255, 255, 255); font-size: 16px; line-height: 16px; padding: 6px; border-radius: 10px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(87, 0, 117) 0%, rgb(255, 58, 231) 50%, rgb(87, 0, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+.myButton:hover {
+background: #570075; }
+.myButton:active {
+background: #570075; } }
